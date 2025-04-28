@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Zomato Analysis and Prediction</title>
+  
 </head>
 <body>
 
